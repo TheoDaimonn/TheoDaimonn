@@ -1,0 +1,1 @@
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=TheoDaimonn&theme=highcontrast&hide_border=true&border_radius=4.6&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" /></a>
